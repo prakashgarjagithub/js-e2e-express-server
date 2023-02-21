@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: "azure pipelines"
+  name: "Azure pipelines"
   vmImage: ubuntu-latest
 
 steps:
